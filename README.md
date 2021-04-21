@@ -3,4 +3,4 @@ Um MarketPlace que adapta a experiência de comercializar NFTs para criadores br
 
 # Based On
 Open Sea API
-(https://img.shields.io/badge/-Node-222222?style=flat&logo=node.js) https://github.com/ProjectOpenSea/opensea-js
+- ![https://github.com/ProjectOpenSea/opensea-js](https://img.shields.io/badge/-Node-222222?style=flat&logo=node.js) 
